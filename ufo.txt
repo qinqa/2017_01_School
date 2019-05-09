@@ -1,0 +1,8 @@
+10/10/1974 23:00;hudson;ks;us;light;1200;38.1055556;-98.6597222;The light chased us.
+10/10/1984 05:00;houston;tx;us;circle;60;29.7630556;-95.3630556;2 experience with unkown
+10/10/2002 06:00;seattle;wa;us;sphere;90;47.6063889;-122.3308333;Light falls from sky
+10/10/2007 01:00;stockbridge;ga;us;changing;3600;33.5441667;-84.2338889;i was abducted
+10/10/2009 20:30;anaheim;ca;us;light;300;33.8352778;-117.9136111;UFO over Disneyland.
+10/15/2009 22:50;lancaster;sc;us;flash;1.5;34.7202778;-80.7711111;Bright blue orb.
+10/15/2009 23:00;dothan;al;us;flash;1200;31.2230556;-85.3905556;blinking lights
+6/5/2004 03:20;polk (south of);mo;us;unknown;20;37.7291667;-93.2991667;Object/being
